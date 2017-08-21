@@ -1,0 +1,80 @@
+https://android-arsenal.com/details/1/6024 - The Android Arsenal - Messaging - advancedSmsManager
+
+https://github.com/skydoves/Medal?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6031 - skydoves/Medal: Android Medal animation library by skydoves.
+
+https://github.com/S64/android-animated-toolbar?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6028 - S64/android-animated-toolbar
+
+https://android-arsenal.com/details/1/6030 - The Android Arsenal - Updaters - StoreAppPuller
+
+https://github.com/sebacipolat/SuperStateView?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6035 - sebacipolat/SuperStateView
+
+https://android-arsenal.com/details/1/6033 - The Android Arsenal - Navigation - NavigationBarView
+
+https://github.com/santalu/mask-edittext?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6037 - santalu/mask-edittext: A simple edittext with mask
+
+https://github.com/santalu/auto-viewpager?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6038 - santalu/auto-viewpager: A view pager with ability to auto and infinite scroll
+
+https://github.com/santalu/emptyview?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6039 - santalu/emptyview: A view that displays state of screen like loading, error, empty
+
+https://github.com/santalu/diagonal-imageview?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6040 - santalu/diagonal-imageview: A simple imageview which allows you to create diagonal cut views easily
+
+https://github.com/charlieAndroidDev/Instagram4Android?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6042 - charlieAndroidDev/Instagram4Android: Android library for accessing Instagram's private API
+
+https://github.com/f2prateek/dart - Dart"injection" library for Android.
+https://android-arsenal.com/details/1/5615 - Navigation - Magellan
+https://android-arsenal.com/details/1/1939 - AppIntro (slider)
+https://android-arsenal.com/details/1/179 - GraphView
+https://android-arsenal.com/details/1/5001 - Vorolay
+https://android-arsenal.com/ - Android Arsenal - Coletânea de libs
+https://android-arsenal.com/details/1/6006 - Plugin pra Android Studio - JSON to POJO
+https://android-arsenal.com/details/1/149 - EventBus
+https://android-arsenal.com/details/1/1775 - LeakCanary
+https://android-arsenal.com/details/1/5762 - AndroidUtilCode
+https://android-arsenal.com/details/1/5203 - Animations
+https://android-arsenal.com/details/1/5926 - Permission Realtime 
+https://android-arsenal.com/details/1/5837 - AndroidFolderPickerLibrary
+https://android-arsenal.com/details/1/5848 - Nitrite Database No SQL
+https://android-arsenal.com/details/1/5923 - File Chooser
+https://android-arsenal.com/details/1/5981 - YuuPlayer (WebView do Youtube)
+https://android-arsenal.com/details/1/5986 - UReflection
+https://android-arsenal.com/details/1/5985 - DayNightSwitch
+https://android-arsenal.com/details/1/5994 - SimpleAuth
+https://android-arsenal.com/details/1/5973 - ChatBar (igual do Whatsapp)
+https://android-arsenal.com/details/1/5975 - AndroidUniversalAdapter
+https://android-arsenal.com/details/1/5976 - WheelProgress
+https://android-arsenal.com/details/1/6000 - StoriesProgressView (igual do Instagram)
+https://android-arsenal.com/details/1/5968 - Luhn (cartão de credito)
+https://android-arsenal.com/details/1/5965 - DatePicker Timeline
+https://android-arsenal.com/details/1/5964#!faq - CVS Scanner
+https://github.com/card-io/card.io-Android-SDK/blob/master/README.md - card.io (cartões de credito/debito)
+https://android-arsenal.com/details/3/5969 - Annotation Processo Sample (ajuda com o Bean)
+https://android-arsenal.com/details/1/5972 - ClickableAdapter (para RecyclerView)
+https://android-arsenal.com/details/1/5970 - Validator 
+https://android-arsenal.com/details/1/5974 - Simple Network 
+https://android-arsenal.com/details/1/5959 - RubberStamp (marca d'agua em imagens)
+https://android-arsenal.com/details/1/5954 - SeekBar Customizada 2
+https://android-arsenal.com/details/1/5956 - SeekBar Customizada
+https://android-arsenal.com/details/1/5947 - RadioButton Customizado
+https://android-arsenal.com/details/1/5949 - MagicLightController (para lâmpadas inteligentes)
+https://android-arsenal.com/details/1/5951 - IncrementCounter View
+https://android-arsenal.com/details/1/5967 - RichPath Animator
+https://android-arsenal.com/details/1/6005 - MultiPhotoPicker
+https://android-arsenal.com/details/1/6001 - SwipeRefreshLayout Customizado
+https://android-arsenal.com/details/1/5999 - PasswordFields Customizados
+https://android-arsenal.com/details/1/5996 - Simple EventBus
+https://android-arsenal.com/details/1/5997 - Social Login (Facebook)
+https://android-arsenal.com/details/1/6002 - FileListerDialog
+https://android-arsenal.com/details/1/5991 - Dial Picker
+https://android-arsenal.com/details/1/5992 - OkGraphQI
+https://android-arsenal.com/details/1/5987 - SwipeUp Gallery com Camera
+https://android-arsenal.com/details/1/5983 - Buttons Customizados (com ShapeView)
+https://android-arsenal.com/details/1/5984 - Face Recognition (FaceDetector) 
+https://android-arsenal.com/details/1/5980 - Recycler Views - Generic Adapter
+https://android-arsenal.com/details/1/5978 - Dialogs Customizados
+https://android-arsenal.com/details/1/5977 - PlayerButton
+https://github.com/chrisjenx/Calligraphy - Fonts Customizadas
+https://github.com/swankjesse - swankjesse (Jesse Wilson)
+https://github.com/bumptech/glide - Glide - Serializador de imagens
+https://github.com/square/okhttp - OkHttp
+https://github.com/square/moshi - Moshi - Parse simples de JSON
+https://github.com/ragunathjawahar/android-saripaar - Saripaar - Validador de campos
