@@ -38,6 +38,16 @@ public class Helper {
         }
         transaction.commit();
     }
+    
+    public static void loadToolbar(Toolbar toolbar, final Activity activity) {
+        ((AppCompatActivity) activity).setSupportActionBar(toolbar);
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                activity.getFragmentManager().popBackStack();
+            }
+        });
+    }
 
     public static void openClass(Context ctx, Class classe){
         ctx.startActivity(new Intent(ctx, classe));
