@@ -53,15 +53,16 @@ public class Helper {
         ctx.startActivity(new Intent(ctx, classe));
     }
         
-    public static void pushMessage(Context ctx, int icon, @NonNull final Class classeIda, String titulo, String mensagem) {
-        NotificationCompat.Builder mBuilder = (NotificationCompat.Builder) new NotificationCompat.Builder(ctx)
+    public static void pushMessage(Activity a, int icon, @NonNull final Class classeIda, String titulo, String mensagem, Bitmap iconLarge) {
+        NotificationCompat.Builder mBuilder = (NotificationCompat.Builder) new NotificationCompat.Builder(a)
                 .setSmallIcon(icon)
                 .setContentTitle(titulo)
+                .setStyle(new NotificationCompat.BigTextStyle())
+                .setLargeIcon(iconLarge)
+                .setDefaults(Notification.DEFAULT_SOUND)
                 .setContentText(mensagem);
-        //  ALTERAR O OBJECT.CLASSS PARA A CLASSE DE IDA PARA QUANDO A PESSOA CLICAR
-        Intent resultIntent = new Intent(ctx, Object.class);
-        TaskStackBuilder stackBuilder = TaskStackBuilder.create(ctx);
-        stackBuilder.addNextIntent(resultIntent);
+        TaskStackBuilder stackBuilder = TaskStackBuilder.create(a);
+        stackBuilder.addNextIntent(new Intent(a, Object.class));
         PendingIntent resultPendingIntent =
                 stackBuilder.getPendingIntent(
                         0,
@@ -69,7 +70,7 @@ public class Helper {
                 );
         mBuilder.setContentIntent(resultPendingIntent);
         NotificationManager mNotificationManager =
-                (NotificationManager) ctx.getSystemService(Context.NOTIFICATION_SERVICE);
+                (NotificationManager) a.getSystemService(Context.NOTIFICATION_SERVICE);
         mNotificationManager.notify(0, mBuilder.build());
     }
         
